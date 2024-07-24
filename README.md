@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQFsiU2-IknUhQ/article-cover_image-shrink_720_1280/0/1703065379624?e=2147483647&v=beta&t=SepcGfg02177G117Q0eRJv97AZWjoJHf-YDZy4gS_2Q)
 <h1 align="center">Hi 👋, I'm Görkem</h1>
 <h3 align="center">3. Grade student at Ege University.</h3>
 
